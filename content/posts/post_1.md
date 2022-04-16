@@ -1,12 +1,10 @@
 ---
-title: "Título de tu blog post"
+title: "Aprendizaje en LaunchX"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Algunos puntos que he tenido en consideración en mi travesia por LaunchX'
 ---
 
-Escribe un recuento de todo lo que has aprendido en Launch X desde la semana de inducción, hasta el módulo de Frontend. 
-El cielo es el límite, puedes contarnos qué te ha gustado más, qué te ha gustado menos, 
-qué te ha parecido más difícil. Recuerda que comunicar es una habilidad que se desarrolla con mucha práctica y tiempo.
+
 
 En LaunchX me he sentido motivado a pesar que algunas cosas no quedan o requieren de mayor dedicacion de mi tiempo, todos los Mission Comanders han
 sido atentos y aunque cada uno de ellos tiene su estilo de enseñanza, con cada uno de ellos he aprendido varias cosas sobre todo 
