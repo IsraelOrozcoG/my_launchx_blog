@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje en LaunchX"
 date: 2022-03-01
-description: 'Algunos puntos que he tenido en consideración en mi travesia por LaunchX'
+description: 'Algunos puntos que he tenido en consideración '
 ---
 
 
